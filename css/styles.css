@@ -1,3 +1,18 @@
 * {
-border: 2px solid black;
+    border: 2px solid black;
+    margin: 0px;
+    padding: 0px;
+}
+h1 {
+    background-color: aqua;
+    text-align: center;  
+}
+h5 {
+    color: aqua;
+}
+.right {
+    text-align: right;
+}
+.left {
+    text-align: left;
 }
