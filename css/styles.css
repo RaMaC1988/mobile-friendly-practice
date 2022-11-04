@@ -23,3 +23,7 @@ h5 {
     width: 100%;
     text-align: center;
 }
+.pad {
+    padding-left: 100px;
+    padding-right: 100px;
+}
